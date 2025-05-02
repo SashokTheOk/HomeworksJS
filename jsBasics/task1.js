@@ -1,0 +1,10 @@
+let words = "Hello, World!";
+let numbers = 42;
+let question = true;
+let nothing = null;
+let danno = undefined;
+console.log(words);
+console.log(numbers);
+console.log(question);
+console.log(nothing);
+console.log(danno);
