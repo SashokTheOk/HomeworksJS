@@ -4,7 +4,7 @@ switch (true) {
     value = "Незадовільно";
     break;
 
-    case (averageGrade > 60 && averageGrade <= 70):
+    case (averageGrade >= 60 && averageGrade <= 70):
     value = "Задовільно";
     break;
 
